@@ -26,7 +26,7 @@ It's programmed with python so it's really really simple.
  <img
       alt="Results"
       src="freemint.png"
-      width="140"
+      width="640"
     />
 
 ---
