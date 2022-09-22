@@ -21,7 +21,13 @@ It's programmed with python so it's really really simple.
 ## Disclaimer 
 **This bot does not guarantee you will get your NFT**, this bot simply goes faster than humans to mint and automates everything since you do not have to click yourself.
 
+.# ✨ Some of my Results with using this bot for Free Mints (7.2 ETH total profit if I sell)
 
+ <img
+      alt="Results"
+      src="freemint.png"
+      width="140"
+    />
 
 ---
 # ✨ Features
