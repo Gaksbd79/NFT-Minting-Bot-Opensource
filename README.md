@@ -50,7 +50,7 @@ It's programmed with python so it's really really simple.
 ---
 # ☕️ Support
 You can contact me be creating an issue here, if you want to support me with some ETH here I always appreciate help 👍
-```
+
 
 ---
 # 🚩 Troubleshooting
